@@ -43,4 +43,4 @@ Seeking Software Development Engineer (SDE) and Full Stack Developer opportuniti
 📫 Contact
 
 - Email: mamathagarudampalli2003@gmail.com
-- GitHub: https://github.com/mamathagarudampalli2003-ctrl
+- GitHub: https://github.com/MamathaGarudampalli
